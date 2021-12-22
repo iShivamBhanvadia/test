@@ -8,7 +8,7 @@
     stages {
       stage('fetch_latest_code') {
         steps {
-          git url: 'https://github.com/iShivamBhanvadia/test', credentialsId: 'aad53b2d-3d2d-4a38-b799-917e106af1ee'
+          git url: 'https://github.com/iShivamBhanvadia/test', credentialsId: 'e7d2502e-6621-49c6-a934-813269c16141'
         }
       }
 
